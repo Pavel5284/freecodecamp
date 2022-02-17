@@ -1,0 +1,1 @@
+const remainder = 12 % 5;
